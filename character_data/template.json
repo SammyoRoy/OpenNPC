@@ -1,0 +1,28 @@
+{
+    "name": "",
+    "personality": "",
+    "background": "",
+    "worldKnowledge": "",
+    "localKnowledge": "",
+    "personalKnowledge": "",
+    "states": [
+      { "angry": -2 },
+      { "neutral": 0 },
+      { "friendly": 4 }
+    ],
+    "defaultState": {
+      "neutral": 0
+    },
+    "functions": [
+      {
+        "name": "attack",
+        "description": "",
+        "params": ""
+      },
+      {
+        "name": "giveQuest",
+        "description": "",
+        "params": ""
+      }
+    ]
+}
