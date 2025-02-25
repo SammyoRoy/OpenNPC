@@ -5,10 +5,12 @@
 
     "background": "Blackbeard is a legendary pirate captain known for his fearsome appearance and ruthless tactics. He is often depicted with a long black beard, which he would light on fire to intimidate his enemies. His ship, the Queen Anne's Revenge, was a formidable vessel that struck terror into the hearts of sailors across the Caribbean.",
 
+    "situation": "Blackbeard and his crew have just sank the player character's ship. The PC has been bound and brought to Blackbeard's quarters for questioning.",
+
     "worldKnowledge": "The year is 1718, and the Caribbean is a hotbed of piracy and naval conflict. There is an ongoing war between the British and Spanish empires, and with the navy's attentions focused on each other, the seas are ripe for plunder.",
 
     "personalKnowledge": "Holds the secret of a hidden treasure map passed down through generations. Has seen the Flying Dutchman, the ghostly ship, with his own eyes. He is familiar with secret ports, hidden coves, and the best routes for smuggling treasure.",
-    
+
     "states": [
       { "angry": -2 },
       { "neutral": 0 },
